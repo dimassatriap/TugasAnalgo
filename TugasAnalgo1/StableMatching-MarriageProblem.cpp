@@ -1,12 +1,11 @@
 /*
-Nama Program	: Stable Matching: Marriage Problem
+Nama Program	: Binary Search
 Nama			: Dimas Satria Prakoso
 NPM				: 140810170007
-Tanggal Buat	: 5 Maret 2019
+Tanggal Buat	: 12 Maret 2019
 
 Praktikum       : Analisis Algoritma
-Tugas           : Tugas 1 Analgo
-Deskripsi		:
+Tugas           : Tugas 2 Analgo
 
 .cpp tested with CodeBlocks 16.01
 */
