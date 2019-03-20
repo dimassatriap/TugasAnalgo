@@ -1,5 +1,5 @@
 /*
-Nama Program	: Merge SOrt
+Nama Program	: Merge Sort
 Nama			: Dimas Satria Prakoso
 NPM				: 140810170007
 Tanggal Buat	: 20 Maret 2019
@@ -14,7 +14,7 @@ Tugas           : QUIZ 1
 #include<conio.h>
 #include<stdlib.h>
 
-#define MAX_SIZE 5
+#define MAX_SIZE 10
 
 using namespace std;
 
