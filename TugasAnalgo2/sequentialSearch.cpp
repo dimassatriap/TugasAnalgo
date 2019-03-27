@@ -29,7 +29,9 @@ main()
 	
 	cout << "\nMasukan data yang akan dicari : "; cin >> cari;
 	cout << "\n-------------------------------------" << endl;
-	  
+
+
+
 	for(int i=0; i<n; i++){
 	    if(A[i] == cari){
 	 	    ketemu = true;
